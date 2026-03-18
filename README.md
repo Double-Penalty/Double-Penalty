@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Double-Penalty
-- 👀 I’m interested in becoming a software developer, cyber security analyst and/or a blockchain developer.
-- 🌱 I’m currently learning Javascript and Python.
+- 👋 Hi, I’m Davud Matamoros
+- 👀 I’m interested in a SOC analyst or GRC analyst
+- 🌱 I’m currently learning and Python.
 - 💞️ I’m looking to collaborate with the community on projects so I can learn from others.
 - 📫 How to reach me: https://www.linkedin.com/in/david-matamoros-9822a714a/
 
