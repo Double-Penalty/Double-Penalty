@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Davud Matamoros
-- 👀 I’m interested in a SOC analyst or GRC analyst
-- 🌱 I’m currently learning and Python.
+- 👋 Hi, I’m David Matamoros
+- 👀 I’m interested in being a SOC analyst or GRC analyst
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate with the community on projects so I can learn from others.
 - 📫 How to reach me: https://www.linkedin.com/in/david-matamoros-9822a714a/
 
